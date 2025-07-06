@@ -1,0 +1,100 @@
+body {
+        background-color: #f8f9fa;
+        font-family: "Pacifico", cursive;
+        font-weight: 700;
+        font-style: normal;
+            }
+    .navbar {
+        margin-bottom: 20px;
+    }
+    .card {
+        margin-bottom: 20px;
+    }
+    .card-title {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+    nav{
+       background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #536976, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    }
+    .card-body {
+       background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #536976, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+
+    .card-text {
+        font-size: 1rem;
+    }
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+    .card-body {
+        padding: 20px;
+    }
+    .rounded-circle {
+        border: 2px solid #007bff;
+        padding: 5px;
+    }
+    .navbar-nav .nav-link {
+        margin-right: 15px;
+    }
+    .card-img-top {
+        border-radius: 10px;
+    }
+    .card {
+       
+        padding: 20px;
+        border-radius: 10px;
+        background-color: white;
+        transition: transform 0.2s;
+       background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #536976, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    }
+    .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+    }
+    .header {
+        background-color: #007bff;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        font-size: 1.5rem;
+        border-radius: 10px 10px 0 0;
+        gap: 50px;
+    }
+    .card-body {
+        background-color: #f8f9fa;
+        border-radius: 0 0 10px 10px;
+        padding: 20px;
+        border:gray solid;
+        border-width: 1px;
+        box-shadow: 0 4px 8px rgba(0, 1, 3, 70%);
+        text-align: center;
+    }
+
+    .btn{
+        background-color: #007bff;
+        color: white;
+        border-radius: 5px;
+        padding: 10px 20px;
+        text-decoration: none;
+    }
+    body{
+     background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #536976, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    }
